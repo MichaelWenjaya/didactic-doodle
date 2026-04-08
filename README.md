@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="id">
 <head>
     <meta charset="UTF-8">
@@ -492,6 +491,3 @@
             document.getElementById('game-over-modal').style.display = 'none';
         }
     </script>
-</body>
-</html># didactic-doodle
-Michael_new
